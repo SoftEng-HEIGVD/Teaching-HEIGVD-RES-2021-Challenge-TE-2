@@ -1,5 +1,7 @@
 # Teaching-HEIGVD-RES-2021-Challenge-TE-2
 
+A la fin du challenge, vous pourrez envoyer vos réponses et captures d'écran dans le formulaire suivant: https://forms.gle/54dExdhVcsSqeCKs6
+
 ## Exercice 1 Docker
 
 * Nous avons publié une image avec le nom **`oliechti/quest`** sur Docker Hub
